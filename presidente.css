@@ -1,0 +1,72 @@
+.navbar{
+	background-color: #0E2431;
+}
+
+.container{
+	margin-top: 50px;
+}
+
+h1.titúlo {
+	font-size: 30px;
+	float: left;
+	color: #372154
+}
+
+h2{
+	float: right;
+	color: #FC3A52
+}
+
+
+h4.subtítulo {
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+	color: #FC3A52;
+}
+
+
+img.candidatos	{
+	width:85px;
+	height: 85px;
+	border-radius: 100px;	
+}
+
+.candidato{
+	float: left;
+}
+
+.votos {
+	float: right;
+}
+.nome {
+	float:left ;
+} 
+
+.presidentes{
+	margin: 30px;
+}
+
+p.personalizado{
+	color: #FC3A52;
+	font-size: 20px;
+}
+
+.nulo{
+	float: right;
+	font-size: 25px;
+}
+
+h1.nulo{
+	color: #0E2431
+}
+
+.branco{
+	float: left;
+	font-size: 25px;
+}
+
+h1.branco{
+	color: #0E2431
+}
+
